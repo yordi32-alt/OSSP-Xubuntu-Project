@@ -3,11 +3,17 @@
 ## Student Information
 
 **Name:** Yordanos Getache
+
 **Student ID:** BDU1702834
+
 **Department:** Software Engineering
+
 **Course:** Operating System and System Programming (OSSP)
+
 **Instructor:** Mr. Wendimu Baye
+
 **University:** Bahir Dar University
+
 **Faculty:** Bahir Dar Institute of Technology
 
 ---
